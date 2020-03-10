@@ -2,9 +2,10 @@
 My first game with <a href="https://twitter.com/DbVectra">DbVectra</a>
 
 Code is in Assets/Scripts
+<br>
 All code was written by me (AlexTuh), art from DbVectra
 
-CODE PURPOSE
+#Code Purpose
 <br>
 <a href="https://github.com/AlexTuh/HisStrangeFriend/blob/master/Assets/Scripts/BallScript.cs">BallScript.cs</a> - attached to ball makes it move when kicked
 <br>
@@ -20,3 +21,6 @@ CODE PURPOSE
 <br>
 <a href="https://github.com/AlexTuh/HisStrangeFriend/blob/master/Assets/Scripts/TextScript.cs">TextScript.cs</a> - script that draws text
 <br>
+
+#Where i can play it?
+Here: <a href="https://www.newgrounds.com/portal/view/746825">click</a>
